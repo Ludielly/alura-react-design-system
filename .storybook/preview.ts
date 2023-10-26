@@ -11,6 +11,13 @@ const preview: Preview = {
         date: /Date$/,
       },
     },
+    options: {
+      storySort: {
+        method: "alphabetical",
+        locales: "pt-BR"
+      }
+    }
+
   },
 };
 
